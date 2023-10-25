@@ -1,0 +1,16 @@
+.headerClass{
+    background-color:#4663AC;
+    height: 3rem;
+
+   border-radius: 10px;
+
+}
+
+
+.headerClass a{
+    color: black;
+    text-decoration: none;
+    margin-left: 5rem;
+    font-weight: 600;
+    
+}
